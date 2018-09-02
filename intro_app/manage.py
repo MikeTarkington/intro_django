@@ -1,3 +1,5 @@
+#run the server with ddtrace-run python3 manage.py runserver 0.0.0.0:8000 to enable viewing in local browser
+
 #!/usr/bin/env python
 import os
 import sys
